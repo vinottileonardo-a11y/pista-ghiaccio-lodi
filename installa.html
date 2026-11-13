@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Installa – Lodi on Ice (cassa Windows)</title>
+  <link rel="icon" href="icone/icona-192.png">
+  <style>
+    @font-face { font-family: 'Barlow'; src: url('font/BarlowSemiCondensed-Medium.ttf') format('truetype'); font-weight: 500; }
+    @font-face { font-family: 'Barlow'; src: url('font/BarlowSemiCondensed-ExtraBold.ttf') format('truetype'); font-weight: 800; }
+    :root { --notte: #081A33; --riga: #263d61; --argento: #B9C6D3; --neve: #F3F7FA; --gh2: #9fdcf8; --ink: #04182e; --giallo: #F2C14E; --verde: #4FD1A5; }
+    * { box-sizing: border-box; } html { background: #040D1C; }
+    body { margin: 0; background: radial-gradient(120% 80% at 50% 0%, #143a6b, var(--notte) 60%, #040D1C) fixed; color: var(--neve); font: 500 20px/1.45 'Barlow', system-ui, sans-serif; }
+    main { max-width: 900px; margin: 0 auto; padding: 24px 16px 60px; }
+    header { display: flex; align-items: center; gap: 20px; }
+    header img { width: 120px; height: 120px; }
+    h1 { font-weight: 800; text-transform: uppercase; letter-spacing: .04em; font-size: 32px; margin: 0; line-height: 1.05; }
+    header p { margin: 6px 0 0; color: var(--argento); }
+    .passo { position: relative; background: linear-gradient(180deg, #12233e, #0d1b31); border-radius: 18px; padding: 18px 20px 18px 92px; margin-top: 14px; box-shadow: inset 0 0 0 1px var(--riga); }
+    .passo > * + * { margin-top: 8px; }
+    .n { position: absolute; left: 20px; top: 18px; width: 52px; height: 52px; border-radius: 50%; background: var(--gh2); color: var(--ink); font-weight: 800; font-size: 26px; display: flex; align-items: center; justify-content: center; }
+    h2 { margin: 0; font-size: 23px; font-weight: 800; }
+    p { margin: 0; }
+    .percorso { font-weight: 800; color: var(--gh2); }
+    code { display: block; background: #050d19; border: 1px solid var(--riga); border-radius: 10px; padding: 12px 14px; font-size: 16px; word-break: break-all; user-select: all; color: #fff; }
+    .attenzione { background: rgba(242,193,78,.12); box-shadow: inset 0 0 0 1px var(--giallo); border-radius: 14px; padding: 12px 16px; margin-top: 14px; }
+    small { color: var(--argento); }
+  </style>
+</head>
+<body>
+<main>
+  <header>
+    <img src="logo/logo.svg" alt="">
+    <div>
+      <h1>Lodi on Ice – installazione sulla cassa</h1>
+      <p>Per la cassa touch con Windows e stampante incorporata. Circa 15 minuti, una volta sola.</p>
+    </div>
+  </header>
+
+  <section class="passo"><span class="n">1</span>
+    <h2>Installa Google Chrome</h2>
+    <p>Da <span class="percorso">google.com/chrome</span> → Scarica → Installa. (Serve Chrome: stampa i biglietti senza chiedere conferma.)</p>
+  </section>
+
+  <section class="passo"><span class="n">2</span>
+    <h2>Stampante della cassa come predefinita</h2>
+    <p><span class="percorso">Start → Impostazioni → Bluetooth e dispositivi → Stampanti e scanner</span></p>
+    <p>Spegni <b>"Consenti a Windows di gestire la stampante predefinita"</b>, poi tocca la stampante della cassa (quella che usa MIMAS) → <b>Imposta come predefinita</b>.</p>
+    <p><small>Nelle "Preferenze stampa" della stampante controlla che la carta sia 80 mm (o 58 mm) e il taglio automatico acceso.</small></p>
+  </section>
+
+  <section class="passo"><span class="n">3</span>
+    <h2>Crea l'icona "Lodi on Ice" sul desktop</h2>
+    <p>Chiudi tutte le finestre di Chrome. Tasto destro sul desktop → <span class="percorso">Nuovo → Collegamento</span> e incolla:</p>
+    <code>"C:\Program Files\Google\Chrome\Application\chrome.exe" --kiosk-printing --user-data-dir=C:\LodiOnIce --app=https://vinottileonardo-a11y.github.io/pista-ghiaccio-lodi/</code>
+    <p>Avanti → nome: <b>Lodi on Ice</b> → Fine.</p>
+    <p><small>"--kiosk-printing" = stampa subito sulla stampante predefinita, senza finestra. "--user-data-dir" = cartella tutta sua: i dati della pista stanno lì.</small></p>
+  </section>
+
+  <section class="passo"><span class="n">4</span>
+    <h2>Avvio automatico all'accensione (consigliato)</h2>
+    <p>Premi <b>Win + R</b>, scrivi <b>shell:startup</b> e Invio: si apre una cartella. Copia lì dentro l'icona "Lodi on Ice".</p>
+  </section>
+
+  <section class="passo"><span class="n">5</span>
+    <h2>Schermo sempre acceso e volume</h2>
+    <p><span class="percorso">Impostazioni → Sistema → Alimentazione → Schermo e sospensione → Mai</span> (sia per lo schermo che per la sospensione).</p>
+    <p>Volume di Windows alto e casse/amplificatore collegati: la cassa fa anche gli annunci.</p>
+  </section>
+
+  <section class="passo"><span class="n">6</span>
+    <h2>Primo avvio e codice</h2>
+    <p>Apri l'icona <b>Lodi on Ice</b>. La prima volta mostra il <b>codice di questa cassa</b> (tipo K7P2-9QXM): mandalo a Leonardo con il pulsante WhatsApp e incolla il codice che ti rimanda.</p>
+  </section>
+
+  <section class="passo"><span class="n">7</span>
+    <h2>Prova di stampa</h2>
+    <p>Nell'app: <span class="percorso">Impostazioni → Stampa biglietti → 🖨 Stampa un biglietto di prova</span>. Deve uscire subito, senza finestre. Se compare una finestra di stampa, l'icona non è stata aperta con "--kiosk-printing" (rifai il passo 3 con tutte le finestre di Chrome chiuse).</p>
+  </section>
+
+  <section class="passo"><span class="n">8</span>
+    <h2>Ogni giorno</h2>
+    <p>Accendi la cassa → si apre Lodi on Ice → <b>AVVIA GIORNATA</b>. Vendi dalla <b>Cassa</b>: tocca i prodotti, poi <b>Contanti / POS / Staff</b>. Escono i biglietti: ingresso con il <b>colore</b>, pinguino, chiave, riepilogo.</p>
+    <p>La voce chiama i gruppi: <i>"è terminato il tempo dei biglietti ROSSI"</i>. A fine giornata: <b>🌙 Chiudi giornata</b> (stampa la chiusura).</p>
+  </section>
+
+  <p class="attenzione"><b>Importante:</b> usa sempre l'icona "Lodi on Ice". Se apri l'app da un Chrome normale, la stampa chiede conferma e i dati non sono gli stessi.</p>
+</main>
+</body>
+</html>
