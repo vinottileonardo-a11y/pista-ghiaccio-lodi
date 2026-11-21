@@ -2520,6 +2520,563 @@
   "numero": 300
  },
  {
+  "id": "ora_8",
+  "file": "ora_8.mp3",
+  "categoria": "ore",
+  "testo": "Sono le ore 8",
+  "numero": 8
+ },
+ {
+  "id": "ora_9",
+  "file": "ora_9.mp3",
+  "categoria": "ore",
+  "testo": "Sono le ore 9",
+  "numero": 9
+ },
+ {
+  "id": "ora_10",
+  "file": "ora_10.mp3",
+  "categoria": "ore",
+  "testo": "Sono le ore 10",
+  "numero": 10
+ },
+ {
+  "id": "ora_11",
+  "file": "ora_11.mp3",
+  "categoria": "ore",
+  "testo": "Sono le ore 11",
+  "numero": 11
+ },
+ {
+  "id": "ora_12",
+  "file": "ora_12.mp3",
+  "categoria": "ore",
+  "testo": "Sono le ore 12",
+  "numero": 12
+ },
+ {
+  "id": "ora_13",
+  "file": "ora_13.mp3",
+  "categoria": "ore",
+  "testo": "Sono le ore 13",
+  "numero": 13
+ },
+ {
+  "id": "ora_14",
+  "file": "ora_14.mp3",
+  "categoria": "ore",
+  "testo": "Sono le ore 14",
+  "numero": 14
+ },
+ {
+  "id": "ora_15",
+  "file": "ora_15.mp3",
+  "categoria": "ore",
+  "testo": "Sono le ore 15",
+  "numero": 15
+ },
+ {
+  "id": "ora_16",
+  "file": "ora_16.mp3",
+  "categoria": "ore",
+  "testo": "Sono le ore 16",
+  "numero": 16
+ },
+ {
+  "id": "ora_17",
+  "file": "ora_17.mp3",
+  "categoria": "ore",
+  "testo": "Sono le ore 17",
+  "numero": 17
+ },
+ {
+  "id": "ora_18",
+  "file": "ora_18.mp3",
+  "categoria": "ore",
+  "testo": "Sono le ore 18",
+  "numero": 18
+ },
+ {
+  "id": "ora_19",
+  "file": "ora_19.mp3",
+  "categoria": "ore",
+  "testo": "Sono le ore 19",
+  "numero": 19
+ },
+ {
+  "id": "ora_20",
+  "file": "ora_20.mp3",
+  "categoria": "ore",
+  "testo": "Sono le ore 20",
+  "numero": 20
+ },
+ {
+  "id": "ora_21",
+  "file": "ora_21.mp3",
+  "categoria": "ore",
+  "testo": "Sono le ore 21",
+  "numero": 21
+ },
+ {
+  "id": "ora_22",
+  "file": "ora_22.mp3",
+  "categoria": "ore",
+  "testo": "Sono le ore 22",
+  "numero": 22
+ },
+ {
+  "id": "ora_23",
+  "file": "ora_23.mp3",
+  "categoria": "ore",
+  "testo": "Sono le ore 23",
+  "numero": 23
+ },
+ {
+  "id": "min_1",
+  "file": "min_1.mp3",
+  "categoria": "minuti",
+  "testo": "e 1.",
+  "numero": 1
+ },
+ {
+  "id": "min_2",
+  "file": "min_2.mp3",
+  "categoria": "minuti",
+  "testo": "e 2.",
+  "numero": 2
+ },
+ {
+  "id": "min_3",
+  "file": "min_3.mp3",
+  "categoria": "minuti",
+  "testo": "e 3.",
+  "numero": 3
+ },
+ {
+  "id": "min_4",
+  "file": "min_4.mp3",
+  "categoria": "minuti",
+  "testo": "e 4.",
+  "numero": 4
+ },
+ {
+  "id": "min_5",
+  "file": "min_5.mp3",
+  "categoria": "minuti",
+  "testo": "e 5.",
+  "numero": 5
+ },
+ {
+  "id": "min_6",
+  "file": "min_6.mp3",
+  "categoria": "minuti",
+  "testo": "e 6.",
+  "numero": 6
+ },
+ {
+  "id": "min_7",
+  "file": "min_7.mp3",
+  "categoria": "minuti",
+  "testo": "e 7.",
+  "numero": 7
+ },
+ {
+  "id": "min_8",
+  "file": "min_8.mp3",
+  "categoria": "minuti",
+  "testo": "e 8.",
+  "numero": 8
+ },
+ {
+  "id": "min_9",
+  "file": "min_9.mp3",
+  "categoria": "minuti",
+  "testo": "e 9.",
+  "numero": 9
+ },
+ {
+  "id": "min_10",
+  "file": "min_10.mp3",
+  "categoria": "minuti",
+  "testo": "e 10.",
+  "numero": 10
+ },
+ {
+  "id": "min_11",
+  "file": "min_11.mp3",
+  "categoria": "minuti",
+  "testo": "e 11.",
+  "numero": 11
+ },
+ {
+  "id": "min_12",
+  "file": "min_12.mp3",
+  "categoria": "minuti",
+  "testo": "e 12.",
+  "numero": 12
+ },
+ {
+  "id": "min_13",
+  "file": "min_13.mp3",
+  "categoria": "minuti",
+  "testo": "e 13.",
+  "numero": 13
+ },
+ {
+  "id": "min_14",
+  "file": "min_14.mp3",
+  "categoria": "minuti",
+  "testo": "e 14.",
+  "numero": 14
+ },
+ {
+  "id": "min_15",
+  "file": "min_15.mp3",
+  "categoria": "minuti",
+  "testo": "e 15.",
+  "numero": 15
+ },
+ {
+  "id": "min_16",
+  "file": "min_16.mp3",
+  "categoria": "minuti",
+  "testo": "e 16.",
+  "numero": 16
+ },
+ {
+  "id": "min_17",
+  "file": "min_17.mp3",
+  "categoria": "minuti",
+  "testo": "e 17.",
+  "numero": 17
+ },
+ {
+  "id": "min_18",
+  "file": "min_18.mp3",
+  "categoria": "minuti",
+  "testo": "e 18.",
+  "numero": 18
+ },
+ {
+  "id": "min_19",
+  "file": "min_19.mp3",
+  "categoria": "minuti",
+  "testo": "e 19.",
+  "numero": 19
+ },
+ {
+  "id": "min_20",
+  "file": "min_20.mp3",
+  "categoria": "minuti",
+  "testo": "e 20.",
+  "numero": 20
+ },
+ {
+  "id": "min_21",
+  "file": "min_21.mp3",
+  "categoria": "minuti",
+  "testo": "e 21.",
+  "numero": 21
+ },
+ {
+  "id": "min_22",
+  "file": "min_22.mp3",
+  "categoria": "minuti",
+  "testo": "e 22.",
+  "numero": 22
+ },
+ {
+  "id": "min_23",
+  "file": "min_23.mp3",
+  "categoria": "minuti",
+  "testo": "e 23.",
+  "numero": 23
+ },
+ {
+  "id": "min_24",
+  "file": "min_24.mp3",
+  "categoria": "minuti",
+  "testo": "e 24.",
+  "numero": 24
+ },
+ {
+  "id": "min_25",
+  "file": "min_25.mp3",
+  "categoria": "minuti",
+  "testo": "e 25.",
+  "numero": 25
+ },
+ {
+  "id": "min_26",
+  "file": "min_26.mp3",
+  "categoria": "minuti",
+  "testo": "e 26.",
+  "numero": 26
+ },
+ {
+  "id": "min_27",
+  "file": "min_27.mp3",
+  "categoria": "minuti",
+  "testo": "e 27.",
+  "numero": 27
+ },
+ {
+  "id": "min_28",
+  "file": "min_28.mp3",
+  "categoria": "minuti",
+  "testo": "e 28.",
+  "numero": 28
+ },
+ {
+  "id": "min_29",
+  "file": "min_29.mp3",
+  "categoria": "minuti",
+  "testo": "e 29.",
+  "numero": 29
+ },
+ {
+  "id": "min_30",
+  "file": "min_30.mp3",
+  "categoria": "minuti",
+  "testo": "e 30.",
+  "numero": 30
+ },
+ {
+  "id": "min_31",
+  "file": "min_31.mp3",
+  "categoria": "minuti",
+  "testo": "e 31.",
+  "numero": 31
+ },
+ {
+  "id": "min_32",
+  "file": "min_32.mp3",
+  "categoria": "minuti",
+  "testo": "e 32.",
+  "numero": 32
+ },
+ {
+  "id": "min_33",
+  "file": "min_33.mp3",
+  "categoria": "minuti",
+  "testo": "e 33.",
+  "numero": 33
+ },
+ {
+  "id": "min_34",
+  "file": "min_34.mp3",
+  "categoria": "minuti",
+  "testo": "e 34.",
+  "numero": 34
+ },
+ {
+  "id": "min_35",
+  "file": "min_35.mp3",
+  "categoria": "minuti",
+  "testo": "e 35.",
+  "numero": 35
+ },
+ {
+  "id": "min_36",
+  "file": "min_36.mp3",
+  "categoria": "minuti",
+  "testo": "e 36.",
+  "numero": 36
+ },
+ {
+  "id": "min_37",
+  "file": "min_37.mp3",
+  "categoria": "minuti",
+  "testo": "e 37.",
+  "numero": 37
+ },
+ {
+  "id": "min_38",
+  "file": "min_38.mp3",
+  "categoria": "minuti",
+  "testo": "e 38.",
+  "numero": 38
+ },
+ {
+  "id": "min_39",
+  "file": "min_39.mp3",
+  "categoria": "minuti",
+  "testo": "e 39.",
+  "numero": 39
+ },
+ {
+  "id": "min_40",
+  "file": "min_40.mp3",
+  "categoria": "minuti",
+  "testo": "e 40.",
+  "numero": 40
+ },
+ {
+  "id": "min_41",
+  "file": "min_41.mp3",
+  "categoria": "minuti",
+  "testo": "e 41.",
+  "numero": 41
+ },
+ {
+  "id": "min_42",
+  "file": "min_42.mp3",
+  "categoria": "minuti",
+  "testo": "e 42.",
+  "numero": 42
+ },
+ {
+  "id": "min_43",
+  "file": "min_43.mp3",
+  "categoria": "minuti",
+  "testo": "e 43.",
+  "numero": 43
+ },
+ {
+  "id": "min_44",
+  "file": "min_44.mp3",
+  "categoria": "minuti",
+  "testo": "e 44.",
+  "numero": 44
+ },
+ {
+  "id": "min_45",
+  "file": "min_45.mp3",
+  "categoria": "minuti",
+  "testo": "e 45.",
+  "numero": 45
+ },
+ {
+  "id": "min_46",
+  "file": "min_46.mp3",
+  "categoria": "minuti",
+  "testo": "e 46.",
+  "numero": 46
+ },
+ {
+  "id": "min_47",
+  "file": "min_47.mp3",
+  "categoria": "minuti",
+  "testo": "e 47.",
+  "numero": 47
+ },
+ {
+  "id": "min_48",
+  "file": "min_48.mp3",
+  "categoria": "minuti",
+  "testo": "e 48.",
+  "numero": 48
+ },
+ {
+  "id": "min_49",
+  "file": "min_49.mp3",
+  "categoria": "minuti",
+  "testo": "e 49.",
+  "numero": 49
+ },
+ {
+  "id": "min_50",
+  "file": "min_50.mp3",
+  "categoria": "minuti",
+  "testo": "e 50.",
+  "numero": 50
+ },
+ {
+  "id": "min_51",
+  "file": "min_51.mp3",
+  "categoria": "minuti",
+  "testo": "e 51.",
+  "numero": 51
+ },
+ {
+  "id": "min_52",
+  "file": "min_52.mp3",
+  "categoria": "minuti",
+  "testo": "e 52.",
+  "numero": 52
+ },
+ {
+  "id": "min_53",
+  "file": "min_53.mp3",
+  "categoria": "minuti",
+  "testo": "e 53.",
+  "numero": 53
+ },
+ {
+  "id": "min_54",
+  "file": "min_54.mp3",
+  "categoria": "minuti",
+  "testo": "e 54.",
+  "numero": 54
+ },
+ {
+  "id": "min_55",
+  "file": "min_55.mp3",
+  "categoria": "minuti",
+  "testo": "e 55.",
+  "numero": 55
+ },
+ {
+  "id": "min_56",
+  "file": "min_56.mp3",
+  "categoria": "minuti",
+  "testo": "e 56.",
+  "numero": 56
+ },
+ {
+  "id": "min_57",
+  "file": "min_57.mp3",
+  "categoria": "minuti",
+  "testo": "e 57.",
+  "numero": 57
+ },
+ {
+  "id": "min_58",
+  "file": "min_58.mp3",
+  "categoria": "minuti",
+  "testo": "e 58.",
+  "numero": 58
+ },
+ {
+  "id": "min_59",
+  "file": "min_59.mp3",
+  "categoria": "minuti",
+  "testo": "e 59.",
+  "numero": 59
+ },
+ {
+  "id": "orario_uscita",
+  "file": "orario_uscita.mp3",
+  "categoria": "servizi",
+  "testo": "Attenzione! Controllate il vostro orario d'uscita sul biglietto.",
+  "conOra": true,
+  "poi": "orario_uscita_fine"
+ },
+ {
+  "id": "orario_uscita_fine",
+  "file": "orario_uscita_fine.mp3",
+  "categoria": "pezzi",
+  "testo": "Ricordate di mostrare lo scontrino alla consegna dei pattini. Grazie!"
+ },
+ {
+  "id": "min_0",
+  "file": "min_0.mp3",
+  "categoria": "minuti",
+  "testo": "in punto."
+ },
+ {
+  "id": "scontrino_uscita",
+  "file": "scontrino_uscita.mp3",
+  "categoria": "servizi",
+  "testo": "Conservate lo scontrino con l'orario d'uscita e presentatelo all'uscita, quando riconsegnate i pattini. Grazie!"
+ },
+ {
+  "id": "vietato_sedersi",
+  "file": "vietato_sedersi.mp3",
+  "categoria": "servizi",
+  "testo": "Attenzione! È vietato sedersi sui lati della pista. Grazie per la collaborazione!"
+ },
+ {
   "id": "benvenuto",
   "file": "benvenuto.mp3",
   "categoria": "annunci",
